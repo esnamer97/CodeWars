@@ -23,5 +23,5 @@ Math.round = function(number) {
   };
 
   console.log(Math.round(0.5));
-  console.log(Math.ceil(0.5));
+  console.log(Math.ceil(0.6));
   console.log(Math.floor(0.5));
